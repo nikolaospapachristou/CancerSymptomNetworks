@@ -1,4 +1,5 @@
-This is a demo of the application of Bayesian Networks on cancer symptoms.
+This is a demo of the application of Bayesian Networks on cancer symptoms. If you are viewing this the github you can find its html form in the following link.
+* [https://nikolaospapachristou.github.io/CancerSymptomNetworks/](https://nikolaospapachristou.github.io/CancerSymptomNetworks/)
 
 Below please find attached **a list of interactive Bayesian Networks**, ran on the same set of cancer symptom data. The dataset consisted of 1328 patients, and 38 symptoms. The networks were created by the **symptom dimension of occurrence**. 
 
