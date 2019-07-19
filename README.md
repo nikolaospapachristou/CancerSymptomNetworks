@@ -1,5 +1,5 @@
-# CancerSymptomNetworks
-Demo of the application of Bayesian Networks on cancer symptoms.
+# Cancer Symptom Networks
+This is a demo of the application of Bayesian Networks on cancer symptoms.
 
 Below please find attached **a list of interactive Bayesian Networks**, ran on the same set of cancer symptom data. The dataset consisted of 1328 patients, and 38 symptoms. The networks were created by the **symptom dimension of occurrence**. 
 
