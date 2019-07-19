@@ -17,4 +17,4 @@ The Bayesian Networks **with the symptom clusters (i.e., communities)** identifi
 
 [1] Papachristou, N, Barnaghi, P, Cooper, B, Kober, KM, Maguire, R, Paul, SM, Hammer, M, Wright, F, Armes, J, Furlong, EP, McCann, L, Conley, YP, Patiraki, E, Katsaragakis, S, Levine, JD, Miaskowski, C (2019). [Network Analysis of the Multidimensional Symptom Experience of Oncology.](https://www.nature.com/articles/s41598-018-36973-1) Sci Rep, 9, 1:2258.
 
-<a href="http://www.google.com" target="blank">google</a>
+<a href="http://www.google.com" target="_blank">google</a>
