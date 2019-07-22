@@ -5,7 +5,7 @@ This is a demo of the application of Bayesian Networks (BNs) on cancer symptoms.
 
 Below please find attached **a list of interactive Bayesian Networks**, ran on the same set of cancer symptom data. The dataset consisted of 1328 patients, and 38 symptoms. The networks were created by the **symptom dimension of occurrence**. 
 
-The **size of nodes** represent the prevalence of occurrence for each symptom in our dataset. The **width of the edges** are proportional to the strentgh that symptoms connect with each other, based on the conditional probabilities identified with the BN algorithm.
+The **size of nodes** represent the prevalence of each symptom in our dataset. The **width of the edges** are proportional to the strentgh that symptoms connect with each other, based on the conditional probabilities identified with the BN algorithm.
 
 By **clicking on a node** you can see its markov blanket, meaning the specific symptom with its parents and children. You can see the same markov blanket by selecting a symptom by the **menu on the left**.
 
